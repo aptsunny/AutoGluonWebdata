@@ -4,16 +4,9 @@ import shutil
 import string
 from gluoncv.utils import makedirs
 
-# 2_prepare_aerial.py
-# csvfile = "/home/ubuntu/workspace/1107gluoncv_cla/data/dog-breed-identification/labels.csv"
 csvfile = "labels.csv"
-
-# pic_path = "/home/ubuntu/workspace/1107gluoncv_cla/data/dog-breed-identification/images_all/"
 pic_path = "images/"
-
 train_path = "train/"
-# train_path = "/home/ubuntu/workspace/1107gluoncv_cla/data/dog-breed-identification/images/"
-
 
 csvfile = open(csvfile, 'r')
 data = []
