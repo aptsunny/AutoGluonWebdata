@@ -1,11 +1,25 @@
 # Outline
-1. [分类任务技巧](./train_manager/Bag_of_tricks.md)
-2. [流畅的Python](./fluent_python/Fluent_python.md)
-3. [并行化编程](./parallel_programming/Parallel_Framework.md)
-4. [设计模式](./design_pattern/Design_pattern.md)
-5. [编译原理](./compilers_principles/Compiler.md)
-6. [性能分析](./cProfile.md)
-7. [网络结构搜索](./automl/Nas.md)
+
+**principles**
+* [流畅的Python](principles/fluent_python/Fluent_python.md)
+* [并行化编程](principles/parallel_programming/Parallel_Framework.md)
+* [设计模式](principles/design_pattern/Design_pattern.md)
+* [编译原理](principles/compilers_principles/Compiler.md)
+* [性能分析](principles/engineering/cProfile.md)
+* [DL](principles/deeplearning/nlp.md)
+
+**applications**
+* [网络结构调整](applications/network_tweak/base_model.md)
+* [分类任务技巧](applications/train_manager/Bag_of_tricks.md)
+* [网络结构搜索](applications/automl/Nas.md)
+* [加速量化](applications/acceleration/distillation.md)
+* [高效工作](applications/efficient/efficient.md)
+
+**projects**
+* [autogluon classification](projects/params_decorator/Search_Space.py)
+
+**materials**
+* [slides](materials/slides/NAS_20200319.pdf)
 
 # 技术栈
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
