@@ -1,10 +1,13 @@
-#工具
+# 工具
 
-##macos
+## macos
+
 [快捷键cheatsheet]()
 
-##ios
+## ios
+
 [快捷指令]()
 
-##Android
+## Android
+
 [开发者选项：动画缩放 0.5x]()
